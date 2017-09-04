@@ -1,0 +1,1 @@
+webpackJsonp([0],[function(e,t,a){e.exports=a(1)},function(e,t,a){var n=a(2),o=a(3);!function(e){"use strict";var t=["eat pizza","be creative","watch movies","draw stuff","play videogames","be awesome"];e(".random").text(t[Math.floor(Math.random()*t.length)]),e(".date").text((new Date).getFullYear())}(function(e){return n(o(e))})}]);
